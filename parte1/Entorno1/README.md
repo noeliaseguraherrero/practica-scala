@@ -13,6 +13,7 @@ Nombre y apellidos: Noelia Segura Herrero
 #### Instalar JupyterLab 
 
 - Comprobar que tenemos instalado python
-![Descripción de la imagen](../images/comprobacion-python.png)
+![Descripción de la imagen](../imagesParte1/comprobacion-python.png)
+
 
 ---
