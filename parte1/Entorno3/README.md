@@ -61,8 +61,10 @@ Con el proyecto ya configurado, se crea un nuevo archivo Scala dentro de la estr
 
 ### Ejecutar utilizando sbt
 
-1. Abrimos la terminal y hacemos el comando "sbt compile". Nos da un error desconocido que no he conseguido solucionar,
+1. Abrimos la terminal y hacemos el comando "sbt compile". 
 
-![error-compile](../imagesParte1/errorFinal-compilacion-programaScala.png)
+![compile-sbt](../imagesParte1/compile-sbt-final.png)
 
 2. Una vez compilado correctamente, ejecutamos el programa con el comando "sbt run" para comprobar que produce el resultado esperado.
+
+![sbt-run](../imagesParte1/sbt-run-final.png)
