@@ -3,17 +3,18 @@
 ## Autor
 * **Nombre y apellidos:** Noelia Segura Herrero
 * **Entorno del sistema:** Windows 11 / Python 3.13.5 / Scala 2.12.21
+
 =======
+
 ## 1.1. Entorno 1 — JupyterLab + Almond Kernel + Scala 2.12.21
 
 ### Instalar JupyterLab
 
 1. Comprobar que tenemos instalado Python: Verifica que Python esté disponible.
->>>>>>> 51c3e2a4cf6ddc2a2112e421e1f357e3f0d8fc8b
 
 ![comprobacion-python](../imagesParte1/comprobacion-python.png)
 
-<<<<<<< HEAD
+
 ## Resumen del Entorno 1: JupyterLab + Almond Kernel + Scala 2.12.21
 
 En este entorno se ha preparado una interfaz interactiva basada en JupyterLab para la ejecución de código Scala utilizando el kernel de Almond. El proceso incluyó la instalación de Python, la actualización de `pip`, la instalación de JupyterLab y la descarga de Coursier para compilar e instalar el kernel de Scala 2.12.21, permitiendo la ejecución de celdas de código de forma interactiva.
