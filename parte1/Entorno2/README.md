@@ -31,3 +31,40 @@ En esta primera parte de la práctica se han configurado tres entornos de desarr
 - **Herramientas utilizadas:** IntelliJ IDEA Community Edition (versión 2025.2), Plugin de Scala, JDK 17, sbt 2.0.9, Scala 2.12.21.
 - [Ver documentación detallada](parte1/README.md)
 
+---
+
+## Estructura del Repositorio
+
+El repositorio se encuentra organizado de la siguiente manera para facilitar su navegación y revisión:
+
+```text
+practica-scala/
+│
+├── README.md
+│
+├── parte1/
+│   ├── README.md
+│   │
+│   ├── notebook/
+│   │   └── entorno-scala.ipynb
+│   │
+│   ├── vscode/
+│   │   └── scala-vscode/
+│   │       ├── build.sbt
+│   │       └── src/
+│   │
+│   └── intellij/
+│       └── scala-intellij/
+│           ├── build.sbt
+│           └── src/
+│
+└── images/
+    ├── jupyter-inicio.png
+    ├── jupyter-almond.png
+    ├── jupyter-scala-version.png
+    ├── vscode-metals.png
+    ├── vscode-sbt-run.png
+    ├── intellij-plugin-scala.png
+    ├── intellij-jdk17.png
+    └── intellij-run.png
+```

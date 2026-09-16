@@ -1,0 +1,78 @@
+2026.09.16 11:28:22 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\noeli\scala-vscode' for client Visual Studio Code 1.118.1.
+2026.09.16 11:28:22 INFO  Memory monitor started
+2026.09.16 11:28:26 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 11:32:06 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:19 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 11:32:19 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 11:32:19 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 11:32:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 11:32:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 6
+2026.09.16 11:32:19 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:20 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 11:32:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+sept 16, 2026 11:32:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+sept 16, 2026 11:32:20 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+2026.09.16 11:32:20 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:20 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:22 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:32:22 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:23 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:32:25 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:32:25 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+sept 16, 2026 11:32:31 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.16 11:32:31 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:33:59 WARN  no build target for: c:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:33:59 INFO  no build target found for c:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:33:59 WARN  Could not find semantic tokens for: file:///c:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:34:01 INFO  no build target found for c:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:01 WARN  Could not find semantic tokens for: file:///c:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:34:04 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:04 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:04 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:34:04 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:05 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:04 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:34:48 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:34:48 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:37:32 WARN  no build target for: c:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:37:32 INFO  no build target found for c:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:37:32 WARN  Could not find semantic tokens for: file:///c:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:37:32 INFO  no build target found for c:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:37:32 WARN  Could not find semantic tokens for: file:///c:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 11:37:39 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 11:37:39 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 11:37:39 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 13:23:15 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:15 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+sept 16, 2026 1:23:15 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 44
+2026.09.16 13:23:15 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 16, 2026 1:23:16 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 46
+2026.09.16 13:23:15 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:16 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:16 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 13:23:16 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:16 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 13:23:21 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:21 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 13:23:21 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:23:22 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 13:24:03 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:24:03 WARN  no build target for: C:\Users\noeli\scala-vscode\build.sbt
+2026.09.16 13:24:03 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 13:24:03 WARN  Could not find semantic tokens for: file:///C:/Users/noeli/scala-vscode/build.sbt
+2026.09.16 13:24:04 INFO  no build target found for C:\Users\noeli\scala-vscode\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
