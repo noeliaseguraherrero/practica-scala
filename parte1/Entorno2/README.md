@@ -42,7 +42,7 @@ En este segundo entorno se monta el flujo de trabajo con Visual Studio Code como
 
 3. Verificar versión
 
-![version-sbt](../imagesParte1/sbt-versiom.png)
+![version-sbt](../imagesParte1/sbt-version.png)
 
 ### Crear un proyecto Scala con sbt
 
