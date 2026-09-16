@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Práctica de programación básica con Scala
 
 ## Autor
