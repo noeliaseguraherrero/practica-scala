@@ -65,14 +65,24 @@ sbt run
 ## Capturas de pantalla 
 
 #### 1. Entorno de Desarrollo
-- **Extensión Metals instalada y activa**: ![Metals Activo](images/scala-metals.png)
-- **Estructura del proyecto sbt**: ![Estructura sbt](images/estructura.png)
+- **Extensión Metals instalada y activa**: 
+![Metals Activo](images/scala-metals.png)
+- **Estructura del proyecto sbt**: 
+![Estructura sbt](images/estructura.png)
 
 #### 2. Archivos Principales
-- **Archivo build.sbt**: ![build.sbt](images/build-sbt.png)
-- **Archivo Main.scala**: ![Main.scala](images/main-scala1.png)![Main.scala](images/main-scala2.png)![Main.scala](images/main-scala3.png)![Main.scala](images/main-scala4.png
+- **Archivo build.sbt**: 
+![build.sbt](images/build-sbt.png)
+- **Archivo Main.scala**: 
+![Main.scala](images/main-scala1.png)
+![Main.scala](images/main-scala2.png)
+![Main.scala](images/main-scala3.png)
+![Main.scala](images/main-scala4.png)
 
 #### 3. Compilación, Ejecución y Salidas
-- **Resultado de sbt compile**: ![sbt compile](images/sbt-compile.png)
-- **Salida de la primera ronda y segunda ronda**: ![Primera y Segunda ronda](images/ronda1-ronda2.png)
-- **Comparación y resultado sbt run**: ![Sbt run](images/comparacion-success.png)
+- **Resultado de sbt compile**: 
+![sbt compile](images/sbt-compile.png)
+- **Salida de la primera ronda y segunda ronda**: 
+![Primera y Segunda ronda](images/ronda1-ronda2.png)
+- **Comparación y resultado sbt run**: 
+![Sbt run](images/comparacion-success.png)
