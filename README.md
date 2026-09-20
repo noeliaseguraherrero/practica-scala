@@ -42,7 +42,7 @@ Configuración y verificación de tres entornos de desarrollo independientes cap
 
 ## Parte 2 — Ejercicios de Programación en Scala
 
-Desarrollo de 15 ejercicios prácticos utilizando el paradigma de programación imperativo y funcional sobre un notebook interactivo en JupyterLab.
+Desarrollo de ejercicios prácticos utilizando el paradigma de programación imperativo y funcional sobre un notebook interactivo en JupyterLab.
 
 - **Herramienta:** JupyterLab + Almond Kernel.
 - **Contenido:** Ejercicios prácticos con estructuras de control, tipos básicos, funciones y colecciones.
