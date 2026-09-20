@@ -1,7 +1,7 @@
 # Práctica de programación básica con Scala
 
 ## Autor
-**Nombre y apellidos:** Noelia Segura Herrero
+Noelia Segura Herrero
 
 ## Entorno de trabajo global
 - **Sistema operativo:** Windows 11
