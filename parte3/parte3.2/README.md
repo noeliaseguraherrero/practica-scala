@@ -47,13 +47,13 @@ val nuevosEstudiantes = "Carlos" :: estudiantes
 ## Capturas de pantalla requeridas
 
 ### 1. Entorno de Desarrollo (IntelliJ IDEA)
-- **Plugin de Scala instalado**: `![Plugin Scala](images/plugin-scala.png)`
-- **Estructura sbt del proyecto**: `![Estructura sbt](images/estructura.png)`
+- **Plugin de Scala instalado**: ![Plugin Scala](images/plugin-scala.png)`
+- **Estructura sbt del proyecto**: ![Estructura sbt](images/estructura.png)`
 
 ### 2. Archivos del Proyecto
-- **Archivo build.sbt**: `![build.sbt](images/build-sbt.png)`
-- **Archivo Main.scala**: `![Main.scala](images/main-scala.png)``![Main.scala](images/main-scala2.png)``![Main.scala](images/main-scala3.png)``![Main.scala](images/main-scala4.png)``![Main.scala](images/main-scala5.png)`
+- **Archivo build.sbt**: ![build.sbt](images/build-sbt.png)`
+- **Archivo Main.scala**: ![Main.scala](images/main-scala.png)![Main.scala](images/main-scala2.png)![Main.scala](images/main-scala3.png)![Main.scala](images/main-scala4.png)![Main.scala](images/main-scala5.png)
 
 ### 3. Compilación y Ejecución
-- **Resultado de sbt compile**: `![sbt compile](images/sbt-compile.png)`
-- **Resultado de sbt run y Salida final de la aplicación**: `![sbt run](images/sbt-run1.png)` `![sbt run](images/sbt-run2.png)`
+- **Resultado de sbt compile**: ![sbt compile](images/sbt-compile.png)
+- **Resultado de sbt run y Salida final de la aplicación**: ![sbt run](images/sbt-run1.png)![sbt run](images/sbt-run2.png)

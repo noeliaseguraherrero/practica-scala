@@ -130,3 +130,21 @@ ADVERTENCIA: Unmatched cancel notification for request id 1318
 2026.09.20 13:48:15 INFO  Shut down connection with build server.
 2026.09.20 13:48:15 INFO  Shut down connection with build server.
 2026.09.20 13:48:15 INFO  Exiting server
+2026.09.20 14:33:06 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one' for client Visual Studio Code 1.138.0.
+2026.09.20 14:33:06 INFO  Memory monitor started
+2026.09.20 14:33:09 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 14:33:10 INFO  Attempting to connect to the build server...
+2026.09.20 14:33:10 INFO  Found a Bloop server running
+2026.09.20 14:33:10 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 14:33:09 INFO  Attempting to connect to the build server...
+2026.09.20 14:33:09 INFO  Found a Bloop server running
+2026.09.20 14:33:10 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 14:33:10 INFO  time: Connected to build server in 0.55s
+2026.09.20 14:33:10 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.20 14:33:10 INFO  time: Imported build in 0.18s
+2026.09.20 14:33:18 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 14:33:20 INFO  time: indexed workspace in 9.78s
+sept 20, 2026 2:33:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+sept 20, 2026 2:35:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
