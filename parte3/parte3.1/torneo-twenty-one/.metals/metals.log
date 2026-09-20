@@ -1,0 +1,126 @@
+2026.09.20 12:40:59 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one' for client Visual Studio Code 1.138.0.
+2026.09.20 12:40:59 INFO  Memory monitor started
+2026.09.20 12:41:01 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 12:41:02 INFO  no build target found for C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.20 12:41:02 WARN  no build target for: C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\build.sbt
+2026.09.20 12:41:06 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.13.0 -jar C:\Users\noeli\AppData\Local\Temp\metals12133124656410266613\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.20 12:41:07 WARN  no build target for: C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\metals.sbt
+2026.09.20 12:41:07 WARN  no build target for: C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\project\metals.sbt
+2026.09.20 12:41:08 ERROR [info] [launcher] getting org.scala-sbt sbt 1.13.0  (this may take some time)...
+2026.09.20 12:41:08 INFO  no build target found for C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.20 12:41:09 INFO  no build target found for C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.20 12:41:21 ERROR [info] [launcher] getting Scala 2.12.21 (for sbt)...
+2026.09.20 12:41:25 INFO  [info] Updated file C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\build.properties: set sbt.version to 1.13.0
+2026.09.20 12:41:27 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.20 12:41:28 WARN  no build target for: C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\metals.sbt
+2026.09.20 12:41:28 WARN  no build target for: C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\project\metals.sbt
+2026.09.20 12:41:50 INFO  [info] loading settings for project torneo-twenty-one-build-build from metals.sbt...
+2026.09.20 12:41:57 INFO  [info] loading project definition from C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\project
+2026.09.20 12:42:16 INFO  [info] loading settings for project torneo-twenty-one-build from metals.sbt...
+2026.09.20 12:42:19 INFO  [info] loading project definition from C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project
+2026.09.20 12:42:35 INFO  [success] Generated .bloop\torneo-twenty-one-build.json
+2026.09.20 12:42:35 INFO  [success] Total time: 16 s, completed 20 sept 2026 12:42:35
+2026.09.20 12:42:36 INFO  [info] loading settings for project torneo-twenty-one from build.sbt...
+2026.09.20 12:42:36 INFO  [info] set current project to torneo-twenty-one (in build file:/C:/Users/noeli/OneDrive/Documentos/practica-scala/parte3/parte3.1/torneo-twenty-one/)
+2026.09.20 12:42:40 INFO  [success] Generated .bloop\torneo-twenty-one-test.json
+2026.09.20 12:42:40 INFO  [success] Generated .bloop\torneo-twenty-one.json
+2026.09.20 12:42:40 INFO  [success] Total time: 3 s, completed 20 sept 2026 12:42:40
+2026.09.20 12:42:40 INFO  time: ran 'sbt bloopInstall' in 1m33s
+2026.09.20 12:42:40 INFO  Attempting to connect to the build server...
+2026.09.20 12:42:40 INFO  No running Bloop server found, starting one.
+2026.09.20 12:42:57 INFO  Starting compilation server
+2026.09.20 12:42:59 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:43:00 WARN  Stopped configuration of Scala SemanticDB in 2.12.21 projects: Error downloading org.scalameta:semanticdb-scalac_2.12.21:4.17.4
+  not found: C:\Users\noeli\.ivy2\local\org.scalameta\semanticdb-scalac_2.12.21\4.17.4\ivys\ivy.xml
+  download error: Caught java.net.SocketException (Network is unreachable: connect) while downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.21/4.17.4/semanticdb-scalac_2.12.21-4.17.4.pom
+Error downloading org.scalameta:semanticdb-scalac_2.12.21:4.17.3
+  not found: C:\Users\noeli\.ivy2\local\org.scalameta\semanticdb-scalac_2.12.21\4.17.3\ivys\ivy.xml
+  download error: Caught java.net.SocketException (Network is unreachable: connect) while downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.21/4.17.3/semanticdb-scalac_2.12.21-4.17.3.pom
+2026.09.20 12:43:00 INFO  Attempting to connect to the build server...
+2026.09.20 12:43:00 INFO  Found a Bloop server running
+2026.09.20 12:43:00 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:43:54 WARN  Stopped configuration of Scala SemanticDB in 2.12.21 projects: Error downloading org.scalameta:semanticdb-scalac_2.12.21:4.17.4
+  not found: C:\Users\noeli\.ivy2\local\org.scalameta\semanticdb-scalac_2.12.21\4.17.4\ivys\ivy.xml
+  download error: Caught java.net.SocketException (Network is unreachable: connect) while downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.21/4.17.4/semanticdb-scalac_2.12.21-4.17.4.pom
+Error downloading org.scalameta:semanticdb-scalac_2.12.21:4.17.3
+  not found: C:\Users\noeli\.ivy2\local\org.scalameta\semanticdb-scalac_2.12.21\4.17.3\ivys\ivy.xml
+  download error: Caught java.net.UnknownHostException (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.21/4.17.3/semanticdb-scalac_2.12.21-4.17.3.pom
+2026.09.20 12:43:54 INFO  time: Connected to build server in 1m21s
+2026.09.20 12:43:54 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.20 12:43:55 INFO  time: Imported build in 1.34s
+2026.09.20 12:44:06 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 12:44:46 INFO  time: indexed workspace in 50s
+2026.09.20 12:44:58 INFO  Shutting down server
+2026.09.20 12:44:58 INFO  Memory monitor stopped
+2026.09.20 12:44:58 INFO  shutting down Metals
+2026.09.20 12:44:58 INFO  Shut down connection with build server.
+2026.09.20 12:44:58 INFO  Shut down connection with build server.
+2026.09.20 12:44:58 INFO  Exiting server
+2026.09.20 12:45:24 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one' for client Visual Studio Code 1.138.0.
+2026.09.20 12:45:25 INFO  Memory monitor started
+2026.09.20 12:45:29 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 12:45:30 INFO  Attempting to connect to the build server...
+2026.09.20 12:45:30 INFO  Found a Bloop server running
+2026.09.20 12:45:31 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:45:33 INFO  Attempting to connect to the build server...
+2026.09.20 12:45:33 INFO  Found a Bloop server running
+2026.09.20 12:45:33 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:45:33 INFO  time: Connected to build server in 2.76s
+2026.09.20 12:45:33 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.20 12:45:34 INFO  time: Imported build in 0.26s
+2026.09.20 12:45:42 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.20 12:45:49 INFO  time: indexed workspace in 14s
+sept 20, 2026 12:45:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.09.20 12:45:55 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 12:46:21 INFO  time: compiled torneo-twenty-one in 26s
+2026.09.20 12:46:53 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\noeli\AppData\Local\Temp\metals11205184549975341862\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.20 12:46:56 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.20 12:46:56 INFO  [info] loading settings for project torneo-twenty-one-build-build from metals.sbt...
+2026.09.20 12:46:58 INFO  [info] loading project definition from C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\project
+2026.09.20 12:46:59 INFO  [info] loading settings for project torneo-twenty-one-build from metals.sbt...
+2026.09.20 12:46:59 INFO  [info] loading project definition from C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project
+2026.09.20 12:47:04 INFO  [success] Generated .bloop\torneo-twenty-one-build.json
+2026.09.20 12:47:04 INFO  [success] Total time: 5 s, completed 20 sept 2026 12:47:04
+2026.09.20 12:47:05 INFO  [info] loading settings for project torneo-twenty-one from build.sbt...
+2026.09.20 12:47:05 INFO  [info] set current project to torneo-twenty-one (in build file:/C:/Users/noeli/OneDrive/Documentos/practica-scala/parte3/parte3.1/torneo-twenty-one/)
+2026.09.20 12:47:06 INFO  [success] Generated .bloop\torneo-twenty-one.json
+2026.09.20 12:47:06 INFO  [success] Generated .bloop\torneo-twenty-one-test.json
+2026.09.20 12:47:06 INFO  [success] Total time: 0 s, completed 20 sept 2026 12:47:06
+2026.09.20 12:47:06 INFO  time: ran 'sbt bloopInstall' in 13s
+2026.09.20 12:47:06 INFO  Disconnecting from Bloop session...
+2026.09.20 12:47:06 INFO  Shut down connection with build server.
+2026.09.20 12:47:06 INFO  Shut down connection with build server.
+2026.09.20 12:47:06 INFO  Attempting to connect to the build server...
+2026.09.20 12:47:06 INFO  Found a Bloop server running
+2026.09.20 12:47:06 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:47:06 INFO  Attempting to connect to the build server...
+2026.09.20 12:47:06 INFO  Found a Bloop server running
+2026.09.20 12:47:07 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\noeli\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.20 12:47:06 INFO  time: Connected to build server in 0.25s
+2026.09.20 12:47:07 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.20 12:47:10 INFO  time: indexed workspace in 3.43s
+sept 20, 2026 12:47:34 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+sept 20, 2026 12:47:34 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+sept 20, 2026 12:47:34 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.20 12:58:23 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 12:58:26 INFO  time: compiled torneo-twenty-one in 2.17s
+2026.09.20 12:59:46 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 12:59:47 INFO  time: compiled torneo-twenty-one in 1.51s
+2026.09.20 13:09:10 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:09:10 INFO  time: compiled torneo-twenty-one in 0.22s
+2026.09.20 13:12:13 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:12:14 INFO  time: compiled torneo-twenty-one in 1.15s
+sept 20, 2026 1:12:21 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1318
+2026.09.20 13:12:23 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:12:23 INFO  time: compiled torneo-twenty-one in 0.98s
+2026.09.20 13:13:14 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:13:14 INFO  time: compiled torneo-twenty-one in 0.9s
+2026.09.20 13:13:48 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:13:48 INFO  time: compiled torneo-twenty-one in 0.84s
+2026.09.20 13:14:39 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.20 13:14:39 INFO  time: compiled torneo-twenty-one in 0.83s

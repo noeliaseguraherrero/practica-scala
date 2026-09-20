@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Main",
+      "mainClass": "Main",
+      "buildTarget": "file:/C:/Users/noeli/OneDrive/Documentos/practica-scala/parte3/parte3.1/torneo-twenty-one/?id=torneo-twenty-one",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\noeli\OneDrive\Documentos\practica-scala\parte3\parte3.1\torneo-twenty-one\src\main\scala\Main.scala:125:13: invalid escape character[0m
+[0m[[0m[31merror[0m] [0m[0m  println("\--- MOSTRAR PUNTUACIONES DE RONDA 1 USANDO FOREACH ---")[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
